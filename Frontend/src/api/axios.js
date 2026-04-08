@@ -2,6 +2,6 @@
 import axios from 'axios'
 
 const api = axios.create({
-    baseURL:'http://localhost:5001/api'
+    baseURL:'https://veloura-e-commerce-backend.onrender.com'
 })
 export default api;
