@@ -6,7 +6,7 @@ The project is built with a focus on clean UI, scalability, and real-world funct
 ---
 
 ## 🚀 Live Demo
-🔗 https://your-deployed-link.com  
+🔗 https://veloura-e-commerce-frontend-frqs.onrender.com/
 
 ---
 
